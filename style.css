@@ -1,0 +1,23 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    text-align: center;
+    background-color: black;
+    height: 1000px;
+}
+header {
+    height: 15%;
+    width: 100%;
+    background-color: aqua;
+}
+div {
+    height: 65%;
+    width: 100%;
+    background-color: beige;
+}
+footer {
+    height: 15%;
+    width: 100%;
+    background-color: aquamarine;
+}
